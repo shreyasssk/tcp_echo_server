@@ -1,0 +1,5 @@
+Client is sending to the server. The way in which it works is as follows - 
+1) The clients first logon to the server
+2) The connection gets established 
+3) The user is prompted to select an option with which, the user can interact.
+4) After the interaction the connection is closed.
